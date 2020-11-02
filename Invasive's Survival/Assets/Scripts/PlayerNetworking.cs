@@ -23,9 +23,4 @@ public class PlayerNetworking : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
